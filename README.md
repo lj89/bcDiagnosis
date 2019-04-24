@@ -3,3 +3,7 @@ In this project, we propose to build a proof-of-concept Integrated Relational Da
 
 ## Index Terms
 Precision Medicine, Relational Database, SQL, Bioinformatics Databases, Genomic testing, REST API, Machine Learning, Cancer Diagnosis Prediction
+
+
+## YouTube link for presentaiton video
+https://www.youtube.com/watch?v=dWcdzYX3ZLc
